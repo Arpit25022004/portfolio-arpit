@@ -1,0 +1,64 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set some basic styles for the body */
+body {
+    font-family:'Times New Roman', Times, serif;
+    line-height: 1.6;
+    background-color: #c6e6f3;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #18324e;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the main content */
+main {
+    padding: 20px;
+}
+
+/* Style sections */
+section {
+    margin-bottom: 30px;
+}
+
+/* Style section headings */
+section h2 {
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+/* Style paragraphs inside sections */
+section p {
+    margin-bottom: 15px;
+    text-align: justify;
+    text-shadow: #fff;
+}
+
+/* Style links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Style footer */
+footer {
+    background-color: #18324e;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
